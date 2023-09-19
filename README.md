@@ -23,7 +23,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Setup up Roles
 - Create Departments
 - Create Teams
-- Allowing users to create tickets
+- Allow users to create tickets
 - Create Agents
 - Create Users/Customers
 - Create SLA plans
