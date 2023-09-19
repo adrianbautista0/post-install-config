@@ -3,7 +3,8 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This project is a detailed walkthrough and configuration guide for setting up a functional ticketing system using osTicket. It covers the creation of user roles, departments and teams, as well as the configuration of helpt topics and SLA plans. The project aims to provide a comprehensive understanding of how to set up and manage a ticketing system efficiently. Environments used are Microsoft Azure for hosting the virtual machine. Applications used are Remote Desktop Connection for allowing access to the virtual machine and osTicket itself for configuring support requests and tickets. 
+<br />
 
 
 
